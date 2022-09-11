@@ -1,0 +1,23 @@
+@font-face {
+    font-family: tagFont;
+    src: url(./Rubik\ Mono\ One/RubikMonoOne-Regular.ttf);
+  }
+body {
+    background-color: antiquewhite;
+    color: rgb(0, 58, 0);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.Headers {
+    font-size: 20px;
+}
+.tags {
+    font-family: tagFont;
+    font-size: 12px;
+}
+
+
+
